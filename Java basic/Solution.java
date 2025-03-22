@@ -53,4 +53,3 @@ public class Solution {
         scanner.close();
     }
 }
-// complted simple hackerrank problem
