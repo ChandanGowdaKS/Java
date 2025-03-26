@@ -32,4 +32,4 @@ public class Ifelse {
         scanner.close();
     }
 }
- 
+ // Due to internals not practiced today 26/3/25
