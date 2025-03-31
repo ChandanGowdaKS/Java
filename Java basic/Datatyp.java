@@ -7,6 +7,7 @@ The second line contains a double.
 The third line contains a String.
 Output Format
 
+Next step 
 There are three lines of output:
 
 On the first line, print String: followed by the unaltered String read from stdin.
