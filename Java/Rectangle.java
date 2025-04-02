@@ -27,4 +27,5 @@ class Rectangle{
 
 
 }
-// Completed
+// Completed 
+// area of rectangle
