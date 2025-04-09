@@ -34,4 +34,6 @@ class Day_02Polymorphism {
         Dog myDog = new Dog();  // Create a Dog object
         myAnimal.animalSound();
         myPig.animalSound();
-        myDog.animalSound(); */
+        myDog.animalSound(); 
+        
+        // Completed*/
