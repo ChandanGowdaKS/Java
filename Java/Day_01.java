@@ -12,4 +12,4 @@ public class Day_01 {
         System.out.println("The age is :"+ age);
 
     }
-}// completed
+}
