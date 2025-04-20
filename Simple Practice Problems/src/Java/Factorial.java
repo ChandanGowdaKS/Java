@@ -15,3 +15,4 @@ public class Factorial {
         System.out.println("Factorial of "+ a + " is "+ result);
     }
 }
+// Completed
