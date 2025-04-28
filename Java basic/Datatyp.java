@@ -45,5 +45,6 @@ public class Datatyp {
         System.out.println("Double: " + db);
         System.out.println("Int: " + i);
     }
-}
+}// completed
+
 
