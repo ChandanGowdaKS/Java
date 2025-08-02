@@ -35,3 +35,4 @@ class Day_02Polymorphism {
         myAnimal.animalSound();
         myPig.animalSound();
         myDog.animalSound(); */
+// completed
